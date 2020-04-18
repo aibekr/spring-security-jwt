@@ -1,0 +1,4 @@
+jwt:
+  secret: hanzala
+server:
+  port: 8081
